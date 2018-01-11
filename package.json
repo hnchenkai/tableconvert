@@ -1,5 +1,5 @@
 {
-  "name": "tableconvert",
+  "name": "xlsxconvert",
   "version": "1.0.0",
   "description": "xlsx转json的工具 支持导出 .d.ts ",
   "main": "index.js",
